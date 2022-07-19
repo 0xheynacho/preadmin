@@ -32,7 +32,7 @@ export default function Dashboard() {
       </Head>
    <h1>si</h1>
 		  		
-		  <div class="form-element-html"><div><div  class="heading-cover field-cover "><div style="text-align: center; font-size: 1.4em;color: #ff7f00;" class="bold-false"><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
+		  <div ><div><div  class="heading-cover field-cover "><div><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
 							  
 		  
       <Grid container spacing={3}>
