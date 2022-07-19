@@ -32,8 +32,7 @@ export default function Dashboard() {
       </Head>
    <h1>si</h1>
 		  		
-		  <div ><div><div  style={{ color: 'blue'}} ><div><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div></div></div></div>
-		  <input id="cocina3" type="radio" data-is-required="true" name="field3[]" defaultValue={26} />
+		<input id="cocina3" type="radio" data-is-required="true" name="field3[]" defaultValue={26} className="validation-lenient" />
 		  
 		  
 		  
