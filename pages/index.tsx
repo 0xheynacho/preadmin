@@ -24,7 +24,7 @@ const WebsiteVisits = dynamic(
 
 export default function Dashboard() {
   return (
-    <Box>
+    <Box> </Box>
       <Head>
         <title>Dashboard</title>
 	      
@@ -610,7 +610,7 @@ var FCMP = [""];
 </body>
 		
       
-    </Box>
+   
   );
 }
 
