@@ -30,7 +30,7 @@ export default function Dashboard() {
       <Head>
         <title>Dashboard</title>
       </Head>
-
+   <h1>si</h1>
       <Grid container spacing={3}>
         {dashboardData.infoCards.map((data, i) => (
           <Grid key={i} item xs={12} sm={6} md={3}>
