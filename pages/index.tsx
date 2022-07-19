@@ -58,9 +58,9 @@ export default function Dashboard() {
                       <input defaultChecked id="cocina1" type="radio" data-is-required="true" name="field3[]" defaultValue={8} className="validation-lenient" /><span><span> Simple</span></span></label><label><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/cocina-1-e1656410736733.png" />
                       <input id="cocina2" type="radio" data-is-required="true" name="field3[]" defaultValue={14} className="validation-lenient" /><span><span> Con Isla</span></span></label><label><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/cocina-1-e1656410736733.png" />
                       <input id="cocina3" type="radio" data-is-required="true" name="field3[]" defaultValue={26} className="validation-lenient" /><span><span> Isla y Comedor</span></span></label></div></div></div></div>
-          </div>
+      
 		
-		<div className="form-element-html">
+				<div className="form-element-html">
   <div data-identifier="field7" data-index={1} style={{width: '100%'}} className="even form-element form-element-field7 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
     <div className="form-element-html"><div><div style={{backgroundColor: ''}} className="heading-cover field-cover "><div style={{textAlign: 'center', fontSize: '1.7000000000000002em', paddingTop: '', paddingBottom: '', color: '#ff7f00'}} className="bold-false"><span>¿Cuántos Baños Necesitás?</span></div>
           <input type="hidden" data-field-id="field7" name="field7[]" defaultValue="¿Cuántos Baños Necesitás?" /></div></div></div>
@@ -88,6 +88,10 @@ export default function Dashboard() {
           <input type="hidden" data-field-id="field9" name="field9[]" defaultValue="¿Comedor para cuántas personas?" /></div></div></div>
   </div><div data-identifier="field10" data-index={2} style={{width: '100%'}} className="form-element form-element-field10 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
   </div></div>
+		
+		</div>
+		
+
 
 		
 		
