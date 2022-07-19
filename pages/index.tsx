@@ -79,7 +79,7 @@ export default function Dashboard() {
 									<input id="bToilettes3" type="radio"  class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
 								
 		
-		
+		</div>
 
 
 		
