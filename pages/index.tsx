@@ -32,15 +32,17 @@ export default function Dashboard() {
       </Head>
    <h1>si</h1>
 		  		
-		<div className="form-element-html"><div><div className="heading-cover field-cover "><div style={{textAlign: 'center', fontSize: '1.4em', color: '#ff7f00'}} className="bold-false"><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
-    </div></div></div>  
-		  
-		  <div style={{width: '100%'}} className="form-element form-element-field3 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
-  <div className="form-element-html"><div><div className="images-true checkbox-cover field-cover"><span className="sub-label-false"><span className="main-label" /><span className="sub-label" /></span><div><span className="error" /><label className="active"><img alt="" src="./index_files/cocina-1-e1656410736733.png" />
-            <input id="cocina1" type="radio" data-is-required="true" name="field3[]" defaultValue={8} className="validation-lenient" /><span><span> Simple</span></span></label><label><img alt="" src="./index_files/cocina-con-isla-2-e1656410518451.png" />
-            <input id="cocina2" type="radio" data-is-required="true" name="field3[]" defaultValue={14} className="validation-lenient" /><span><span> Con Isla</span></span></label><label><img alt="" src="./index_files/cocina-comedor-isla-1-e1656410695546.png" />
-            <input id="cocina3" type="radio" data-is-required="true" name="field3[]" defaultValue={26} className="validation-lenient" /><span><span> Isla y Comedor</span></span></label></div></div></div></div>
+<div>
+  <div className="form-element-html"><div><div className="heading-cover field-cover "><div style={{textAlign: 'center', fontSize: '1.4em', color: '#ff7f00'}} className="bold-false"><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
+      </div></div></div>
+  <div style={{width: '100%'}} className="form-element form-element-field3 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+    <div className="form-element-html"><div><div className="images-true checkbox-cover field-cover"><span className="sub-label-false"><span className="main-label" /><span className="sub-label" /></span><div><span className="error" /><label className="active"><img alt="" src="./index_files/cocina-1-e1656410736733.png" />
+              <input id="cocina1" type="radio" data-is-required="true" name="field3[]" defaultValue={8} className="validation-lenient" /><span><span> Simple</span></span></label><label><img alt="" src="./index_files/cocina-con-isla-2-e1656410518451.png" />
+              <input id="cocina2" type="radio" data-is-required="true" name="field3[]" defaultValue={14} className="validation-lenient" /><span><span> Con Isla</span></span></label><label><img alt="" src="./index_files/cocina-comedor-isla-1-e1656410695546.png" />
+              <input id="cocina3" type="radio" data-is-required="true" name="field3[]" defaultValue={26} className="validation-lenient" /><span><span> Isla y Comedor</span></span></label></div></div></div></div>
+  </div>
 </div>
+
 		  
 		  
 		  
