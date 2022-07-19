@@ -32,16 +32,7 @@ export default function Dashboard() {
       </Head>
    <h1>si</h1>
 		  		
-						<div>
-  <div data-identifier="field6" data-index={1} style={{width: '100%'}} className="even form-element form-element-field6 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
-    <div className="form-element-html"><div><div className="heading-cover field-cover "><div style={{textAlign: 'center', fontSize: '1.4em', color: '#ff7f00'}} className="bold-false"><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
-          <input type="hidden" data-field-id="field6" name="field6[]" defaultValue="¿Qué Tipo de Cocina Te Gusta Más?" /></div></div></div>
-  </div><div data-identifier="field3" data-index={2} style={{width: '100%'}} className="form-element form-element-field3 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
-    <div className="form-element-html"><div><div className="images-true checkbox-cover field-cover"><span className="sub-label-false"><span className="main-label" /><span className="sub-label" /></span><div data-placement="right" data-toggle="tooltip" tooltip data-trigger="hover" data-html="true" data-original-title><span className="error" /><label style={{width: ''}} className="active"><img alt="" src="./index_files/cocina-1-e1656410736733.png" className="lazyloaded" data-ll-status="loaded" /><noscript>&lt;img alt="" src="./index_files/cocina-1-e1656410736733.png"&gt;</noscript>
-              <input id="cocina1" defaultChecked data-field-id="field3" type="radio" data-is-required="true" name="field3[]" defaultValue={8} className="validation-lenient" /><span><span> Simple</span></span></label><label style={{width: ''}} className><img alt="" src="./index_files/cocina-con-isla-2-e1656410518451.png" className="lazyloaded" data-ll-status="loaded" /><noscript>&lt;img alt="" src="./index_files/cocina-con-isla-2-e1656410518451.png"&gt;</noscript>
-              <input id="cocina2" data-field-id="field3" type="radio" data-is-required="true" name="field3[]" defaultValue={14} className="validation-lenient" /><span><span> Con Isla</span></span></label><label style={{width: ''}} className><img alt="" src="./index_files/cocina-comedor-isla-1-e1656410695546.png" className="lazyloaded" data-ll-status="loaded" /><noscript>&lt;img alt="" src="./index_files/cocina-comedor-isla-1-e1656410695546.png"&gt;</noscript>
-              <input id="cocina3" data-field-id="field3" type="radio" data-is-required="true" name="field3[]" defaultValue={26} className="validation-lenient" /><span><span> Isla y Comedor</span></span></label></div></div></div></div>
-  </div></div>
+		  <div class="form-element-html"><div><div  class="heading-cover field-cover "><div style="text-align: center; font-size: 1.4em;color: #ff7f00;" class="bold-false"><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
 							  
 		  
       <Grid container spacing={3}>
