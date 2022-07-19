@@ -136,7 +136,478 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
       </Head>
 	
 
-			<h2 >Completando estos simples datos</h2>
+<body style="background-color:whitesmoke;" class="home page-template-default page page-id-7  nv-blog-default nv-sidebar-full-width nv-without-title menu_sidebar_slide_left" id="neve_body">
+<script data-cfasync="false" data-no-defer="1">var ewww_webp_supported=false;</script>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div class="wrapper">
+	
+	
+
+	<style>.header-menu-sidebar .nav-ul li .wrap { padding: 15px 0; white-space: unset; display: flex; justify-content: space-between; align-items: center; }.header-menu-sidebar .nav-ul li .wrap a { width: 100%; }.header-menu-sidebar .nav-ul li .wrap a:hover { color: var(--hovercolor); }.header-menu-sidebar .nav-ul li .wrap button { border: unset; height: 100%; }</style>
+<style>
+.casa {
+	
+	background-color: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	} 
+	
+	span{
+		color: black;
+}
+
+.button {
+  background-color: #00cdc2; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+
+	</style>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap" rel="stylesheet">
+	
+	<img src="head.png" alt="">
+	<div  class="casa">
+		<div style="text-align: center; color:black; width: 100%; opacity:2!important; margin-top:5%;" >
+			<h1 style="margin-bottom: 1%; margin-top: 3%;  font-family: 'Open Sans', sans-serif;" >Presupuesto de Diseño para   tu casa</h1>
+			<h2 style= color:black;font-family: 'Open Sans', sans-serif;" >Averiguá que Tamaño y costo Tendrá Tu Casa</h2>
+			<h2 style="margin-bottom: 1%;color:black;font-family: 'Open Sans', sans-serif;">Completando estos simples datos</h2>
+			<h2 style="color: black;font-family: 'Open Sans', sans-serif;">Obtén el precio de inmediato y descarga el PDF</h2>
+			<button   style="background-color: black ; color:white ; margin-top: 3%;" ><a href="#Presupuesto" style="color: white;"> Calcular  Presupusto</a>
+			</button>
+			</div>
+		</div>
+	
+	
+<main id="content" class="neve-main">
+<div class="container single-page-container">
+	<div class="row">
+				<div class="nv-single-page-wrap col">
+			<div class="nv-content-wrap entry-content">
+
+<div  class="wp-block-cover alignfull banda" style="min-height:408px ;" ><span  aria-hidden="true" class="wp-block-cover__background has-nv-site-bg-background-color has-background-dim"></span><div class="wp-block-cover__inner-container">
+<div class="wp-container-5 wp-block-group"><div class="wp-block-group__inner-container">
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<h1 style="margin:5%;color:black; text-align: center;" id="Presupuesto">Completa estos simples datos</h1>
+<div class="wp-block-formcraft-embed-form"><div data-uniq="62d16bd62bbbb" class="uniq-62d16bd62bbbb formcraft-css form-live align-center">
+			<div class="form-cover"   >
+			<form data-thousand="" data-decimal="." data-delay="" data-id="6" class="fc-form fc-form-6 align- spin- dont-submit-hidden- disable-enter- label-placeholder field-border-visible frame-hidden save-form-true remove-asterisk-true icons-hide-false field-alignment-center options-fade" style="width: 75%; color: #666666; font-size: 110%; background: white;">
+				<div class="form-page form-page-0 active" data-index="0">
+					<div class="form-page-content     " style="background-color:white;"  >
+						<div data-identifier="field62" data-index="0" style="width: 100%" class="form-element form-element-field62 options-false index-false form-element-0 default-false form-element-type-customText is-required-false odd -handle">
+							<div class="form-element-html"><div><div class="absolute-false customText-cover field-cover" style="color: #666666 !important;"> <div class="full" style="text-align: left"></div>
+							<input type="hidden" name="field62" data-field-id="field62"></div></div></div>
+							
+						</div>
+						
+						<div  data-identifier="field6" data-index="1" style="width: 100%" class="even form-element form-element-field6 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+							<div class="form-element-html"><div><div  class="heading-cover field-cover "><div style="text-align: center; font-size: 1.4em;color: #ff7f00" class="bold-false"><span>¿Qué Tipo de Cocina Te Gusta Más?</span></div>
+							<input type="hidden" data-field-id="field6" name="field6[]" value="¿Qué Tipo de Cocina Te Gusta Más?"></div></div></div>
+							
+						</div><div data-identifier="field3" data-index="2" style="width: 100%" class="form-element form-element-field3 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+							<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:" class="active"><img alt="" src="./index_files/cocina-1-e1656410736733.png" class="lazyloaded" data-ll-status="loaded"><noscript><img alt="" src="./index_files/cocina-1-e1656410736733.png"></noscript>
+								<input id="cocina1" checked data-field-id="field3" type="radio" data-is-required="true" name="field3[]" value="8" class="validation-lenient"  ><span><span> Simple</span></span></label><label style="width:" class=""><img alt="" src="./index_files/cocina-con-isla-2-e1656410518451.png" class="lazyloaded" data-ll-status="loaded"><noscript><img alt="" src="./index_files/cocina-con-isla-2-e1656410518451.png"></noscript>
+									<input id="cocina2" data-field-id="field3" type="radio" data-is-required="true" name="field3[]" value="14" class="validation-lenient" ><span><span> Con Isla</span></span></label><label style="width:" class=""><img alt="" src="./index_files/cocina-comedor-isla-1-e1656410695546.png" class="lazyloaded" data-ll-status="loaded"><noscript><img alt="" src="./index_files/cocina-comedor-isla-1-e1656410695546.png"></noscript>
+										<input id="cocina3" data-field-id="field3" type="radio" data-is-required="true" name="field3[]" value="26" class="validation-lenient" ><span><span> Isla y Comedor</span></span></label></div></div></div></div>
+							  
+									
+
+						</div>
+						<div data-identifier="field83" data-index="3" style="width: 100%" class="even form-element form-element-field83 options- index- form-element-3 default-false form-element-type- is-required-false -handle">
+							<div class="form-element-html">
+							</div>
+							<div data-identifier="field7" data-index="1" style="width: 100%" class="even form-element form-element-field7 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+								<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.7000000000000002em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Cuántos Baños Necesitás?</span></div>
+								<input type="hidden" data-field-id="field7" name="field7[]" value="¿Cuántos Baños Necesitás?"></div></div></div>
+								
+							</div><div data-identifier="field51" data-index="2" style="width: 33%" class="form-element form-element-field51 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+								<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>Toilettes</span></span><span class="sub-label"><p><img src="./index_files/toil-gris.png" class="lazyloaded" data-ll-status="loaded"><noscript><img src="./index_files/toil-gris.png"></noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:" class=""><img alt="">
+									<input id="bToilettes0" checked data-field-id="field51" type="radio" data-is-required="true" name="field51[]" value="0" class="validation-lenient"><span><span>Ninguno</span></span></label><label style="width:" class=""><img alt="">
+									<input id="bToilettes1"data-field-id="field51" type="radio" data-is-required="true" name="field51[]" value="4" class="validation-lenient"><span><span>1 </span></span></label><label style="width:" class=""><img alt="">
+									<input id="bToilettes2" data-field-id="field51" type="radio" data-is-required="true" name="field51[]" value="8" class="validation-lenient"><span><span>2 </span></span></label><label style="width:" class="active"><img alt="">
+									<input id="bToilettes3"data-field-id="field51" type="radio" data-is-required="true" name="field51[]" value="12" class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
+								
+							</div><div data-identifier="field53" data-index="3" style="width: 33%" class="even form-element form-element-field53 options-false index-false form-element-3 default-false form-element-type-checkbox is-required-true -handle">
+								<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>Simple</span></span><span class="sub-label"><p><img src="./index_files/bano.png" class="lazyloaded" data-ll-status="loaded"><noscript><img src="./index_files/bano.png"></noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:"><img alt="">
+									<input id="bsimple0" checked data-field-id="field53" type="radio" data-is-required="true" name="field53[]" value="0" class="validation-lenient"><span><span>Ninguno</span></span></label><label style="width:" class=""><img alt="">
+										<input id="bsimple1" data-field-id="field53" type="radio" data-is-required="true" name="field53[]" value="5" class="validation-lenient"><span><span>1 </span></span></label><label style="width:" class="active"><img alt="">
+											<input id="bsimple2" data-field-id="field53" type="radio" data-is-required="true" name="field53[]" value="11" class="validation-lenient"><span><span>2 </span></span></label><label style="width:" class=""><img alt="">
+												<input id="bsimple3" data-field-id="field53" type="radio" data-is-required="true" name="field53[]" value="26" class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
+								
+							</div><div data-identifier="field52" data-index="4" style="width: 33%" class="form-element form-element-field52 options-false index-false form-element-4 default-false form-element-type-checkbox is-required-true odd -handle">
+								<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>Con Ante baño</span></span><span class="sub-label"><p><img src="./index_files/antebano.png" class="lazyloaded" data-ll-status="loaded"><noscript><img src="./index_files/antebano.png"></noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:" class="active"><img alt="">
+									<input id="bConAnteb0" checked data-field-id="field52" type="radio" data-is-required="true" name="field52[]" value="0" class="validation-lenient"><span><span>Ninguno</span></span></label><label style="width:"><img alt="">
+										<input id="bConAnteb1" data-field-id="field52" type="radio" data-is-required="true" name="field52[]" value="8" class="validation-lenient"><span><span>1 </span></span></label><label style="width:"><img alt="">
+											<input id="bConAnteb2" data-field-id="field52" type="radio" data-is-required="true" name="field52[]" value="16" class="validation-lenient"><span><span>2 </span></span></label><label style="width:"><img alt="">
+												<input id="bConAnteb3"data-field-id="field52" type="radio" data-is-required="true" name="field52[]" value="24" class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
+								
+							</div>
+							<div data-identifier="field9" data-index="1" style="width: 100%" class="even form-element form-element-field9 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+								<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.8000000000000003em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Comedor para cuántas personas?</span></div>
+								<input type="hidden" data-field-id="field9" name="field9[]" value="¿Comedor para cuántas personas?"></div></div></div>
+								
+							</div><div data-identifier="field10" data-index="2" style="width: 100%" class="form-element form-element-field10 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+								<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width: 25%"><img alt="" src="https://martinbonari.com/">
+									<input  id="Comedor0" checked data-field-id="field10" type="radio" data-is-required="true" name="field10[]" value="0" class="validation-lenient"><span><span> Sin Comedor</span></span></label><label style="width: 25%" class="active"><img alt="">
+										<input id="Comedor1" data-field-id="field10" type="radio" data-is-required="true" name="field10[]" value="13" class="validation-lenient"><span><span> 6 Personas</span></span></label><label style="width: 25%"><img alt="">
+											<input id="Comedor2" data-field-id="field10" type="radio" data-is-required="true" name="field10[]" value="15" class="validation-lenient"><span><span> 8 Personas</span></span></label><label style="width: 25%"><img alt="">
+												<input id="Comedor3" data-field-id="field10" type="radio" data-is-required="true" name="field10[]" value="16" class="validation-lenient"><span><span> 10 Personas</span></span></label></div></div></div></div>
+							
+								<div data-identifier="field11" data-index="1" style="width: 100%" class="even form-element form-element-field11 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+									<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.8000000000000003em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Living para cuántas personas?</span></div><input type="hidden" data-field-id="field11" name="field11[]" value="¿Living para cuántas personas?"></div></div></div>
+									
+								</div><div data-identifier="field13" data-index="2" style="width: 100%" class="form-element form-element-field13 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+									<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width: 25%" class="active"><img alt="" src="https://martinbonari.com/">
+										<input id="living0" checked data-field-id="field13" type="radio" data-is-required="true" name="field13[]" value="0" class="validation-lenient"><span><span> Sin Living</span></span></label><label style="width: 25%"><img alt="">
+											<input  id="living1" data-field-id="field13" type="radio" data-is-required="true" name="field13[]" value="13" class="validation-lenient"><span><span> 6 Personas</span></span></label><label style="width: 25%"><img alt="">
+												<input id="living2" data-field-id="field13" type="radio" data-is-required="true" name="field13[]" value="18" class="validation-lenient"><span><span> 8 Personas</span></span></label><label style="width: 25%"><img alt="">
+													<input id="living3" data-field-id="field13" type="radio" data-is-required="true" name="field13[]" value="20" class="validation-lenient"><span><span> 10 Personas</span></span></label></div></div></div></div>
+							
+									<div data-identifier="field14" data-index="1" style="width: 100%" class="even form-element form-element-field14 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+										<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.7000000000000002em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Garaje Para cuántos coches?</span></div><input type="hidden" data-field-id="field14" name="field14[]" value="¿Garaje Para cuántos coches?"></div></div></div>
+										
+									</div><div data-identifier="field18" data-index="2" style="width: 100%" class="form-element form-element-field18 options-true index-true form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+										<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width: 25%"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/NADA-e1656413596486.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/NADA-e1656413596486.png"></noscript>
+											<input id="g0" checked data-field-id="field18" type="radio" data-is-required="true" name="field18[]" value="0" class="validation-lenient"><span><span> Sin Garaje</span></span></label><label style="width: 25%" class="active"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/garaje-1-e1656413485778.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/garaje-1-e1656413485778.png"></noscript>
+												<input id="g1"  data-field-id="field18" type="radio" data-is-required="true" name="field18[]" value="18" class="validation-lenient"><span><span> 1 Coche</span></span></label><label style="width: 25%"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/garaje-doble-1-e1656413477429.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/garaje-doble-1-e1656413477429.png"></noscript>
+												<input id="g2"  data-field-id="field18" type="radio" data-is-required="true" name="field18[]" value="35" class="validation-lenient"><span><span> 2 Coches</span></span></label><label style="width: 25%"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/garaje-triple-1-e1656413468752.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/garaje-triple-1-e1656413468752.png"></noscript>
+													<input id="g3"  data-field-id="field18" type="radio" data-is-required="true" name="field18[]" value="52" class="validation-lenient"><span><span> 3 Coches</span></span></label></div></div></div></div>
+										
+										<div data-identifier="field16" data-index="1" style="width: 100%" class="even form-element form-element-field16 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+											<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.6em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Cómo querés el Dormitorio Principal?</span></div>
+											<input type="hidden" data-field-id="field16" name="field16[]" value="¿Cómo querés el Dormitorio Principal?"></div></div></div>
+											
+										</div><div data-identifier="field15" data-index="2" style="width: 100%" class="form-element form-element-field15 options-true index-true form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+											<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:" class="active"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorios-simple-1-e1656413633429.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorios-simple-1-e1656413633429.png"></noscript>
+												<input id="dp1" checked data-field-id="field15" type="radio" data-is-required="true" name="field15[]" value="14" class="validation-lenient"><span><span> Simple</span></span></label><label style="width:"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorio-con-vestidor-1-e1656413643430.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorio-con-vestidor-1-e1656413643430.png"></noscript>
+													<input id="dp2" data-field-id="field15" type="radio" data-is-required="true" name="field15[]" value="25" class="validation-lenient"><span><span> Con Vestidor</span></span></label></div></div></div></div>
+							
+											
+
+											<div class="form-element-html"><div><div class="absolute-false customText-cover field-cover" style="left: ; top: ;right: ;bottom: ;color: #666666 !important; background-color:"><div class="full" style="text-align: left"></div>
+											<input type="hidden" name="field72" data-field-id="field72"></div></div></div>
+							
+										</div><div data-identifier="field19" data-index="1" style="width: 100%" class="even form-element form-element-field19 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+											<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.5em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Y los Dormitorios Secundarios?</span></div>
+											<input type="hidden" data-field-id="field19" name="field19[]" value="¿Y los Dormitorios Secundarios?"></div></div></div>
+											
+										</div><div data-identifier="field56" data-index="2" style="width: 33%" class="form-element form-element-field56 options-true index-true form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+											<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>De 1 cama</span></span><span class="sub-label"><p><img src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorio-simple-1-e1656413715365.png"><noscript><img src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorio-simple-1-e1656413715365.png"></noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:"><img alt="">
+												<input id="ds10" checked data-field-id="field56" type="radio" data-is-required="true" name="field56[]" value="0" class="validation-lenient"><span><span>Ninguno</span></span></label><label style="width:"><img alt="">
+													<input id="ds11" data-field-id="field56" type="radio" data-is-required="true" name="field56[]" value="10" class="validation-lenient"><span><span>1</span></span></label><label style="width:"><img alt="">
+														<input id="ds12" data-field-id="field56" type="radio" data-is-required="true" name="field56[]" value="22" class="validation-lenient"><span><span>2</span></span></label><label style="width:" class="active"><img alt="">
+															<input id="ds13" data-field-id="field56" type="radio" data-is-required="true" name="field56[]" value="34" class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
+											
+										</div><div data-identifier="field58" data-index="3" style="width: 33%" class="even form-element form-element-field58 options-false index-false form-element-3 default-false form-element-type-checkbox is-required-true -handle">
+											<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>De 2 camas</span></span><span class="sub-label"><p><img src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorios-doble-1-e1656413726943.png"><noscript><img src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorios-doble-1-e1656413726943.png"></noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:"><img alt="">
+												<input id="ds20" checked data-field-id="field58" type="radio" data-is-required="true" name="field58[]" value="0" class="validation-lenient"><span><span>Ninguno</span></span></label><label style="width:"><img alt="">
+													<input id="ds21" data-field-id="field58" type="radio" data-is-required="true" name="field58[]" value="18" class="validation-lenient"><span><span>1</span></span></label><label style="width:"><img alt="">
+														<input id="ds22"data-field-id="field58" type="radio" data-is-required="true" name="field58[]" value="36" class="validation-lenient"><span><span>2</span></span></label><label style="width:" class="active"><img alt="">
+															<input id="ds23"data-field-id="field58" type="radio" data-is-required="true" name="field58[]" value="54" class="validation-lenient"><span><span>3</span></span></label><label style="width:"><img alt="">
+																<input id="ds24" data-field-id="field58" type="radio" data-is-required="true" name="field58[]" value="72" class="validation-lenient"><span><span>4</span></span></label></div></div></div></div>
+											
+										</div><div data-identifier="field57" data-index="4" style="width: 33%" class="form-element form-element-field57 options-true index-true form-element-4 default-false form-element-type-checkbox is-required-true odd -handle">
+											<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>De 3 camas</span></span><span class="sub-label"><p><img src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorio-triple-1-e1656413707687.png"><noscript><img src="https://martinbonari.com/wp-content/uploads/2022/06/dormitorio-triple-1-e1656413707687.png"></noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:"><img alt="">
+												<input id="ds30" checked data-field-id="field57" type="radio" data-is-required="true" name="field57[]" value="0" class="validation-lenient"><span><span>Ninguno</span></span></label><label style="width:"><img alt="">
+													<input id="ds31" data-field-id="field57" type="radio" data-is-required="true" name="field57[]" value="20" class="validation-lenient"><span><span>1</span></span></label><label style="width:"><img alt="">
+														<input id="ds32" data-field-id="field57" type="radio" data-is-required="true" name="field57[]" value="44" class="validation-lenient"><span><span>2</span></span></label><label style="width:" class="active"><img alt="">
+															<input id="ds33" data-field-id="field57" type="radio" data-is-required="true" name="field57[]" value="65" class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
+											
+										</div>
+
+										<div data-identifier="field25" data-index="1" style="width: 100%" class="even form-element form-element-field25 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+											<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.5em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>Otros Ambientes</span></div>
+											<input type="hidden" data-field-id="field25" name="field25[]" value="Otros Ambientes"></div></div></div>
+											
+										</div><div data-identifier="field26" data-index="2" style="width: 100%" class="form-element form-element-field26 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-false odd -handle">
+											<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width: 25%" class=""><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/deposito-1.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/deposito-1.png"></noscript>
+												<input id="a0" che data-field-id="field26" type="checkbox" data-is-required="false" name="field26[]" value="8" class="validation-lenient"><span><span> Depósito pequeño</span></span></label><label style="width: 25%" class=""><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/playroom-1.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/playroom-1.png"></noscript>
+													<input id="a1" data-field-id="field26" type="checkbox" data-is-required="false" name="field26[]" value="10" class="validation-lenient"><span><span> Estudio</span></span></label><label style="width: 25%" class=""><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/lavadero-1.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/lavadero-1.png"></noscript>
+														<input id="a2" data-field-id="field26" type="checkbox" data-is-required="false" name="field26[]" value="6" class="validation-lenient"><span><span> Lavadero</span></span></label><label style="width: 25%" class="active"><img alt="" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-lazy-src="https://martinbonari.com/wp-content/uploads/2022/06/estudio-1.png"><noscript><img alt="" src="https://martinbonari.com/wp-content/uploads/2022/06/estudio-1.png"></noscript>
+															<input id="a3" data-field-id="field26" type="checkbox" data-is-required="false" name="field26[]" value="10" class="validation-lenient"><span><span> Playroom</span></span></label></div></div></div></div>
+											<div data-identifier="field27" data-index="1" style="width: 100%" class="even form-element form-element-field27 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+												<div class="form-element-html"><div><div style="background-color:" class="heading-cover field-cover "><div style="text-align: center; font-size: 1.6em; padding-top: ; padding-bottom: ; color: #ff7f00" class="bold-false"><span>¿Cuántas Plantas?</span></div>
+												<input type="hidden" data-field-id="field27" name="field27[]" value="¿Cuántas Plantas?"></div></div></div>
+												
+											</div><div data-identifier="field28" data-index="2" style="width: 100%" class="form-element form-element-field28 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+												<div class="form-element-html"><div><div class="images-true checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true" data-original-title=""><span class="error"></span><label style="width:"><img alt="" src="https://martinbonari.com/">
+													<input id="p1" checked data-field-id="field28" type="radio" data-is-required="true" name="field28[]" value="0" class="validation-lenient"><span><span> 1 Planta</span></span></label><label style="width:"><img alt="">
+														<input id="p2" data-field-id="field28" type="radio" data-is-required="true" name="field28[]" value="6" class="validation-lenient"><span><span> 2 Plantas</span></span></label><label style="width:" class="active"><img alt="">
+															<input id="p3" data-field-id="field28" type="radio" data-is-required="true" name="field28[]" value="12" class="validation-lenient"><span><span> 3 Plantas</span></span></label></div></div></div></div>
+												
+
+
+												<button onclick="check()" class="button" style=""><a href="#descargar" style="text-decoration:none;color: white;"> ver presupusto</a></button>
+
+
+
+<div style="background-color:margin-top:5rem; padding:10% ;"><h2 id="q1" style="color:black!important;"></h2></div>
+
+
+
+<div class="containerx" id="descargar">
+	<h2 style="color: black;">Descargar PDF Con Presupuesto </h2>
+	<div class="price-row" style="margin-top: 0%;">
+		<div class="price-col">
+			<h2>Presupuesto Basico</h2>
+			<h3>$ 0</h3>
+			<ul style="margin-bottom:12rem;">
+				<li>metros cuadrados</li>
+				<li>estimado del costo </li>
+				
+			</ul>
+			<button>Ver</button>
+		</div>
+		<div class="price-col">
+			<h2>Presupuesto Desglosado</h2>
+			<h3>$ 19.99</h3>
+			<ul>
+				<li>imprimir Informe</li>
+				<li>metros cuadrados</li>
+				<li>costo por estapa</li>
+				<li>precion indirectos</li>
+				<li>estimado de tiempo</li>
+				<li>calidad de materiales</li>
+				<li>calendario de trabajo</li>
+				
+			</ul>
+			<button>Ver</button>
+		</div>
+		
+
+	</div>
+</div>
+
+<style>
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins',sans-serif;
+}
+.containerx{
+	width: 100%;
+	min-height: 90vh;
+	background: whitesmoke;
+}
+.containerx h2{
+	color: #000000;
+	font-size:32px;
+	padding:25px 0;
+	text-align: center;
+}
+.price-row{
+	width: 90%;
+	max-width: 1100px;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-gap: 25px;
+}
+.price-col{
+	background: darkcyan;
+	padding: 10% 15%;
+	border-radius: 10px;
+	color: #fff;
+	text-align: center;
+}
+.price-col p{
+	font-size: 22px;
+}
+.price-col h3{
+	font-size: 44px;
+	margin: 20px 0 40px;
+	font-weight: 500;
+}
+.price-col h3 span{
+	font-size: 16px;
+}
+.price-col ul{
+	text-align: left;
+	margin: 20px 0;
+	color: white;
+	list-style-type: none;  
+	
+}
+.price-col ul li{
+	margin: 15px 0 ;
+	text-transform: capitalize;
+	size: 15px;
+	font-size:80%;
+}
+.price-col button{
+	width: 100%;
+	padding: 14px 0;
+	background: transparent;
+	color: #fff;
+	font-size: 15px;
+	border: 1px solid #fff;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background 0.5s;
+	
+}
+.price-col button:hover{
+	background: rgba(1, 204, 204, 0.836);
+	color: black;
+}
+
+
+
+</style>
+
+
+
+												
+												
+												
+											<div id="qwe">
+
+
+												<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+
+												<canvas id="myChart" style="width:0.100%;max-width:0.600px"></canvas>
+												
+												
+
+
+											</div>
+
+
+												
+																					
+												
+												
+												
+												
+												
+												<script type="text/javascript" src="index.js" ></script>
+
+
+
+							
+							
+	
+				
+		
+
+
+
+		
+
+
+
+
+</div></div>
+</div>		</div>
+			</div>
+</div>
+
+</main>
+
+</div>
+	
+
+<script type="text/javascript" src="./index_files/form.min.js.descarga" id="fc-form-js-js"></script>
+<script type="text/javascript" id="fcmp-form-js-js-extra">
+/* <![CDATA[ */
+var FCMP = [""];
+/* ]]> */
+</script>
+<script type="text/javascript" src="./index_files/form-multi-page.js.descarga" id="fcmp-form-js-js"></script>
+    <script>
+    jQuery(document).ready(function() {
+      
+    });
+    </script>
+    <script>window.lazyLoadOptions = {
+                elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async="" src="./index_files/lazyload.min.js.descarga"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+
+
+
+
+<img src="footer.png" alt="">
+</body>
 		
       
     </Box>
