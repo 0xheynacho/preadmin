@@ -29,7 +29,7 @@ export default function Dashboard() {
         <title>Dashboard</title>
       </Head>
 	<div  >
-		<div style="text-align: center; color:black; width: 100%; opacity:2!important; margin-top:5%;" >
+		<div style="text-align: center; color:black; width: 100%; opacity:2; margin-top:5%;" >
 			<h1 style="margin-bottom: 1%; margin-top: 3%;  font-family: 'Open Sans', sans-serif;" >Presupuesto de Diseño para   tu casa</h1>
 			<h2 style= color:black;font-family: 'Open Sans', sans-serif;" >Averiguá que Tamaño y costo Tendrá Tu Casa</h2>
 			<h2 style="margin-bottom: 1%;color:black;font-family: 'Open Sans', sans-serif;">Completando estos simples datos</h2>
