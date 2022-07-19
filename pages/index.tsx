@@ -24,7 +24,7 @@ const WebsiteVisits = dynamic(
 
 export default function Dashboard() {
   return (
-  <Box>
+  
       <Head>
         <title>Dashboard</title>
         
@@ -176,7 +176,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
           <OrderTimeline {...dashboardData.orderTime} />
         </Grid>
       </Grid>
-    </Box>    
+     
    
   );
 }
