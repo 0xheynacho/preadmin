@@ -26,7 +26,7 @@ export default function Dashboard() {
   return (
   
      
-	  <div>
+	<head>
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
         <link rel="profile" href="http://gmpg.org/xfn/11" />
@@ -81,7 +81,11 @@ export default function Dashboard() {
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
           <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap" rel="stylesheet" />
+		  
+		  </head>
+		  
           <img src="head.png" alt="" />
+		  
           <div className="casa">
             <div style={{textAlign: 'center', color: 'black', width: '100%', opacity: '2!important', marginTop: '5%'}}>
               <h1 style={{marginBottom: '1%', marginTop: '3%', fontFamily: '"Open Sans", sans-serif'}}>Presupuesto de Diseño para   tu casa</h1>
@@ -261,7 +265,7 @@ export default function Dashboard() {
                                   </div></div></form></div></div></div></div></div></div></div></div></div></main>
         </div>
         <img src="footer.png" alt="" />
-      </div>
+  
 	  
 	  
    
