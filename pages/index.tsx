@@ -28,6 +28,16 @@ export default function Dashboard() {
 	  
 	      <Box>
       <Head>
+	        <link rel="stylesheet" id="formcraft-common-css" href="https://martinbonari.com/wp-content/plugins/formcraft3/dist/formcraft-common.css?ver=3.7.2" type="text/css" media="all" />
+  <link rel="stylesheet" id="formcraft-form-css" href="https://martinbonari.com/wp-content/plugins/formcraft3/dist/form.css?ver=3.7.2" type="text/css" media="all" />
+  <link rel="stylesheet" id="ims-fme-ssc-custom-css" href="https://martinbonari.com/wp-content/plugins/import-spreadsheets-from-microsoft-excel/css/custom_plugin.css?ver=6.0.1" type="text/css" media="all" />
+  <link rel="stylesheet" id="collapscore-css-css" href="https://martinbonari.com/wp-content/plugins/jquery-collapse-o-matic/css/core_style.css?ver=1.0" type="text/css" media="all" />
+  <link rel="stylesheet" id="collapseomatic-css-css" href="https://martinbonari.com/wp-content/plugins/jquery-collapse-o-matic/css/light_style.css?ver=1.6" type="text/css" media="all" />
+  <link rel="stylesheet" id="gosign-gallery-box-slick-slider-css-css" href="https://martinbonari.com/wp-content/plugins/gosign-gallery-box-block/assets/vendor/slick/css/slick.min.css?ver=6.0.1" type="text/css" media="all" />
+  <link rel="stylesheet" id="gosign-gallery-box-slick-slider-css-theme-css" href="https://martinbonari.com/wp-content/plugins/gosign-gallery-box-block/assets/vendor/slick/css/slick-theme.min.css?ver=6.0.1" type="text/css" media="all" />
+  <link rel="stylesheet" id="gosign-gallery-box-fancybox-css-css" href="https://martinbonari.com/wp-content/plugins/gosign-gallery-box-block/assets/vendor/fancybox/dist/jquery.fancybox.min.css?ver=6.0.1" type="text/css" media="all" />
+  <link rel="stylesheet" id="gosign-gallery-box-block-frontend-css-css" href="https://martinbonari.com/wp-content/plugins/gosign-gallery-box-block/blocks/style.min.css?ver=1655464874" type="text/css" media="all" />
+  <link rel="stylesheet" id="neve-style-css" href="https://martinbonari.com/wp-content/themes/neve/style-main-new.min.css?ver=3.3.1" type="text/css" media="all" />
         <title>Dashboard</title>
       </Head>
    <h1>si</h1>
