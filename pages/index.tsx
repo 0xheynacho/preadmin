@@ -24,7 +24,7 @@ const WebsiteVisits = dynamic(
 
 export default function Dashboard() {
   return (
-    <Box> </Box>
+ 
       <Head>
         <title>Dashboard</title>
 	      
