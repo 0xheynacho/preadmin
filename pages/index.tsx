@@ -73,10 +73,7 @@ export default function Dashboard() {
         <input type="hidden" data-field-id="field7" name="field7[]" defaultValue="¿Cuántos Baños Necesitás?" /></div></div></div>
 </div>
 			  
-<div style={{width: '33%'}}>
-  <div ><div><div ><span ><span ><span>Toilettes</span></span><span ><p><img src="./index_files/toil-gris.png"/></p></span></span><div ><span  /><label style={{width: ''}} className><img alt="" />
-        
-			  
+		  
 			  
 			  
 	</div>
