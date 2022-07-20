@@ -63,7 +63,30 @@ export default function Dashboard() {
 		
 		
 		</div>
-		  <div className="form-element-html"></div>
+		  <div className="form-element-html">
+		
+		
+		
+		
+		<div data-identifier="field7" data-index={1} style={{width: '100%'}} className="even form-element form-element-field7 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
+  <div className="form-element-html"><div><div style={{backgroundColor: ''}} className="heading-cover field-cover "><div style={{textAlign: 'center', fontSize: '1.7000000000000002em', paddingTop: '', paddingBottom: '', color: '#ff7f00'}} className="bold-false"><span>¿Cuántos Baños Necesitás?</span></div>
+        <input type="hidden" data-field-id="field7" name="field7[]" defaultValue="¿Cuántos Baños Necesitás?" /></div></div></div>
+</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
 		
 		
 					
