@@ -73,16 +73,16 @@ export default function Dashboard() {
         <input type="hidden" data-field-id="field7" name="field7[]" defaultValue="¿Cuántos Baños Necesitás?" /></div></div></div>
 </div>
 			  
-	<label style={{width: ''}} className>
-  <input id="bToilettes0" defaultChecked type="radio" name="field51[]" defaultValue={0} className="validation-lenient" /><span><span>Ninguno</span></span></label>	  
-			  
-			  
+		  
 
 			  
      
 	</div>
 
 
+		<label style={{width: ''}} className>
+  <input id="bToilettes0" defaultChecked type="radio" name="field51[]" defaultValue={0} className="validation-lenient" /><span><span>Ninguno</span></span></label>	  
+			  
 	
 		
 		
