@@ -72,6 +72,15 @@ export default function Dashboard() {
   <div className="form-element-html"><div><div style={{backgroundColor: ''}} className="heading-cover field-cover "><div style={{textAlign: 'center', fontSize: '1.7000000000000002em', paddingTop: '', paddingBottom: '', color: '#ff7f00'}} className="bold-false"><span>¿Cuántos Baños Necesitás?</span></div>
         <input type="hidden" data-field-id="field7" name="field7[]" defaultValue="¿Cuántos Baños Necesitás?" /></div></div></div>
 </div>
+			  
+			 <div data-identifier="field51" data-index={2} style={{width: '33%'}} className="form-element form-element-field51 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
+  <div className="form-element-html"><div><div className="images-false checkbox-cover field-cover"><span className="sub-label-true"><span className="main-label"><span>Toilettes</span></span><span className="sub-label"><p><img src="./index_files/toil-gris.png" className="lazyloaded" data-ll-status="loaded" /><noscript>&lt;img src="./index_files/toil-gris.png"&gt;</noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip data-trigger="hover" data-html="true" data-original-title><span className="error" /><label style={{width: ''}} className><img alt="" />
+            <input id="bToilettes0" defaultChecked data-field-id="field51" type="radio" data-is-required="true" name="field51[]" defaultValue={0} className="validation-lenient" /><span><span>Ninguno</span></span></label><label style={{width: ''}} className><img alt="" />
+            <input id="bToilettes1" data-field-id="field51" type="radio" data-is-required="true" name="field51[]" defaultValue={4} className="validation-lenient" /><span><span>1 </span></span></label><label style={{width: ''}} className><img alt="" />
+            <input id="bToilettes2" data-field-id="field51" type="radio" data-is-required="true" name="field51[]" defaultValue={8} className="validation-lenient" /><span><span>2 </span></span></label><label style={{width: ''}} className="active"><img alt="" />
+            <input id="bToilettes3" data-field-id="field51" type="radio" data-is-required="true" name="field51[]" defaultValue={12} className="validation-lenient" /><span><span>3</span></span></label></div></div></div></div>
+</div>
+
 		
 		
 		
