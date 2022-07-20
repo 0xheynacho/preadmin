@@ -76,11 +76,9 @@ export default function Dashboard() {
 		  
 			  
 			  
-<div>          <input id="bToilettes0" defaultChecked type="radio" name="field51[]" defaultValue={0} className="validation-lenient" /><span><span>Ninguno</span></span></label><label style={{width: ''}} className><img alt="" />
-            <input id="bToilettes1" type="radio" data-is-required="true" name="field51[]" defaultValue={4} className="validation-lenient" /><span><span>1 </span></span></label><label style={{width: ''}} className><img alt="" />
-            <input id="bToilettes2" type="radio" data-is-required="true" name="field51[]" defaultValue={8} className="validation-lenient" /><span><span>2 </span></span></label><label style={{width: ''}} className="active"><img alt="" />
-            <input id="bToilettes3" type="radio" data-is-required="true" name="field51[]" defaultValue={12} className="validation-lenient" /><span><span>3</span></span></label></div></div></div></div>
-</div>
+<div>          <input id="bToilettes0"className="validation-lenient" /><span><span>Ninguno</span></span></label><label style={{width: ''}}>
+     
+	</div>
 
 
 	
