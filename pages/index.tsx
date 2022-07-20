@@ -73,8 +73,8 @@ export default function Dashboard() {
         <input type="hidden" data-field-id="field7" name="field7[]" defaultValue="¿Cuántos Baños Necesitás?" /></div></div></div>
 </div>
 			  
-<div style={{width: '33%'}} className="form-element form-element-field51 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
-  <div className="form-element-html"><div><div className="images-false checkbox-cover field-cover"><span className="sub-label-true"><span className="main-label"><span>Toilettes</span></span><span className="sub-label"><p><img src="./index_files/toil-gris.png" className="lazyloaded" data-ll-status="loaded" /><noscript>&lt;img src="./index_files/toil-gris.png"&gt;</noscript></p></span></span><div data-placement="right" data-toggle="tooltip" tooltip data-trigger="hover" data-html="true" data-original-title><span className="error" /><label style={{width: ''}} className><img alt="" />
+<div style={{width: '33%'}}>
+  <div ><div><div ><span ><span ><span>Toilettes</span></span><span ><p><img src="./index_files/toil-gris.png"/></p></span></span><div ><span  /><label style={{width: ''}} className><img alt="" />
         
 			  
 			  
