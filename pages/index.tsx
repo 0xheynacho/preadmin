@@ -64,23 +64,7 @@ export default function Dashboard() {
 		</div>
 		
 		
-					<div class="form-element-html">
-							
-							<div  class="even form-element form-element-field7 options-false index-false form-element-1 default-false form-element-type-heading is-required-false -handle">
-								<div class="form-element-html"><div><div class="heading-cover field-cover "><div style="text-align: center; font-size: 1.7000000000000002em; padding-top: ; padding-bottom: ; color: #ff7f00 ; " class="bold-false"><span>¿Cuántos Baños Necesitás?</span></div>
-								<input type="hidden" data-field-id="field7" name="field7[]" value="¿Cuántos Baños Necesitás?"></div></div></div>
-								
-							</div>
-							<div style="width: 33%" class="form-element form-element-field51 options-false index-false form-element-2 default-false form-element-type-checkbox is-required-true odd -handle">
-								<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-true"><span class="main-label"><span>Toilettes</span></span><span class="sub-label"><p><img src="./index_files/toil-gris.png"></p></span></span><div><span class="error"></span><label >
-									<input id="bToilettes0"  type="radio" class="validation-lenient"><span><span>Ninguno</span></span></label><label>
-									<input id="bToilettes1" type="radio"  class="validation-lenient"><span><span>1 </span></span></label><label ><img alt="">
-									<input id="bToilettes2"  type="radio" class="validation-lenient"><span><span>2 </span></span></label><label class="active">
-									<input id="bToilettes3" type="radio"  class="validation-lenient"><span><span>3</span></span></label></div></div></div></div>
-								
-		
-		</div>
-
+					
 
 		
 		
