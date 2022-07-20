@@ -76,7 +76,7 @@ export default function Dashboard() {
 		  
 			  
 			  
-<div>          <input id="bToilettes0"className="validation-lenient" /><span><span>Ninguno</span></span></label><label style={{width: ''}}>
+<div>          <input id="bToilettes0"className="validation-lenient" /><span><span>Ninguno</span></span></label><label>
      
 	</div>
 
